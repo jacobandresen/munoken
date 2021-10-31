@@ -1,8 +1,9 @@
-A games collector app.
+A  time tracker/games playing/game collector app.
 
-Keeping track of my games collection. While tinkering a bit with Elixir and Elm
+Keeping track of my games collection and . While tinkering a bit with React Native
 
 Warmup:
   - [ ] Establish domain model: [#1](https://github.com/jacobandresen/munoken/issues/1)
-  - [ ] Setup Elixir project
-  - [ ] Setup Elm frontend
+  - [ ] Establish App Project 
+ 
+ 
